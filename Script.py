@@ -8,9 +8,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """ <b><blockquote>⍟───[ Mʏ Dᴇᴛᴀɪʟs ]───⍟</blockquote>
     
-‣ Mʏ Nᴀᴍᴇ : <a href='https://t.me/Asuranmoviefinder1bot'>Movie Search Bot 2</a>
-‣ Mʏ Bᴇsᴛ Fʀɪᴇɴᴅ : <a href='tg://settings'>Tʜɪs Pᴇʀsᴏɴ</a> 
-‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Jasuran123@bot'>Asuran 🤞</a> 
+‣ Mʏ Nᴀᴍᴇ : <a href='https://t.me/Madara_Uchiha_17_bot'>ᴍᴀᴅᴀʀᴀ ᴜcʜɪʜᴀ</a>
+‣ Mʏ Bᴇsᴛ Fʀɪᴇɴᴅ : <a href=''>Tʜɪs Pᴇʀsᴏɴ</a> 
+‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Madarauchiha1703'>Asuran 🤞</a> 
 ‣ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a> 
 ‣ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a> 
 ‣ Dᴀᴛᴀ Bᴀsᴇ : <a href='https://www.mongodb.com/'>Mᴏɴɢᴏ Dʙ</a> 
@@ -57,7 +57,7 @@ Bʏ @Asuranmoviefinder1bot 👀"""
 Iᴅ - <code>{}</code>
 Nᴀᴍᴇ - {}
 
-Bʏ @Asuranmoviefinder1bot 👀"""
+Bʏ @Madara_Uchiha_17_bot 👀"""
 
     ALRT_TXT = """Hᴇʟʟᴏ {},
 Tʜɪꜱ Iꜱ Nᴏᴛ Yᴏᴜʀ Mᴏᴠɪᴇ Rᴇǫᴜᴇꜱᴛ,
@@ -110,7 +110,7 @@ Exᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
 
 ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴀʀᴇ ꜰʀᴇᴇʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ᴏʀ ᴘᴏꜱᴛᴇᴅ ʙʏ ꜱᴏᴍᴇʙᴏᴅʏ ᴇʟꜱᴇ. ᴊᴜꜱᴛ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɪɴᴅᴇxɪɴɢ ꜰɪʟᴇꜱ ᴡʜɪᴄʜ ᴀʀᴇ ᴀʟʀᴇᴀᴅʏ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ᴄᴏᴍᴘʟɪᴀɴᴄᴇ ᴡɪᴛʜ ᴅᴍᴄᴀ ᴀɴᴅ ᴇᴜᴄᴅ. ɪꜰ ᴀɴʏᴛʜɪɴɢ ɪꜱ ᴀɢᴀɪɴꜱᴛ ʟᴀᴡ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜱᴏ ᴛʜᴀᴛ ɪᴛ ᴄᴀɴ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ᴀꜱᴀᴘ. ɪᴛ ɪꜱ ꜰᴏʀʙɪʙʙᴇɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ꜱᴛʀᴇᴀᴍ, ʀᴇᴘʀᴏᴅᴜᴄᴇ, ꜱʜᴀʀᴇ ᴏʀ ᴄᴏɴꜱᴜᴍᴇ ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ᴏʀ ʟᴇɢᴀʟ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀ. ɪꜰ ʏᴏᴜ ʙᴇʟɪᴇᴠᴇ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴏʟᴀᴛɪɴɢ ʏᴏᴜʀ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ, ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴄʜᴀɴɴᴇʟꜱ ꜰᴏʀ ʀᴇᴍᴏᴠᴀʟ. ᴛʜᴇ ʙᴏᴛ ᴅᴏᴇꜱ ɴᴏᴛ ᴏᴡɴ ᴀɴʏ ᴏꜰ ᴛʜᴇꜱᴇ ᴄᴏɴᴛᴇɴᴛꜱ, ɪᴛ ᴏɴʟʏ ɪɴᴅᴇx ᴛʜᴇ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ. 
 
-<blockquote>🌿 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href='https://t.me/JAsuran123_bot'>Asuran 🤞</a></b></blockquote>"""
+<blockquote>🌿 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href='https://t.me/Madarauchiha1703'>ᴍᴀᴅᴀʀᴀ ᴜcʜɪʜᴀ 🤞</a></b></blockquote>"""
     
     USERS_TXT = """👋 ʜᴇʏ {},
 
@@ -222,7 +222,7 @@ Exᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
 
 ➢ ᴄʟɪᴄᴋ ᴏɴ "♨️ ꜱᴇɴᴅ ᴀʟʟ ꜰɪʟᴇꜱ ♨️" ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ᴄʟɪᴄᴋ.
 
-✯ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :Asuran 🤞"""
+✯ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :Mᴀᴅᴀʀᴀ Ucʜɪʜᴀ """
 
     REQINFO = """➢ ᴄʟɪᴄᴋ "ǫᴜᴀʟɪᴛʏ" ᴀɴᴅ ᴄʜᴀɴɢᴇ ǫᴜᴀʟɪᴛʏ.
 ➢ ᴄʟɪᴄᴋ "ʟᴀɴɢᴜᴀɢᴇ" ᴀɴᴅ ᴄʜᴀɴɢᴇ ʟᴀɴɢᴜᴀɢᴇ.
@@ -250,14 +250,14 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
     SOURCE_TXT = """<b>
 NOTE:
-Sᴏᴜʀᴄᴇ Cᴏᴅᴇ Hᴇʀᴇ ◉› :<blockquote><a href="https://t.me/Asuranmoviefinder1bot">Asuran 😈/a></blockquote>
+Sᴏᴜʀᴄᴇ Cᴏᴅᴇ Hᴇʀᴇ ◉› :<blockquote><a href="https://t.me/Madarauchiha1703">Mᴀᴅᴀʀᴀ Ucʜɪʜᴀ 😈/a></blockquote>
 </b>""" 
 
     # PLESE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     CREDITS_TXT = """<b>
 ❤️‍🩹 <u>Sᴘᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ Tᴏ Eᴠᴇʀʏᴏɴᴇ</u>
 
-• Mᴀɪɴ Oᴡɴᴇʀ : <a href="https://t.me/JAsuran123_bot">Asuran 🤞</a>
+• Mᴀɪɴ Oᴡɴᴇʀ : <a href="https://t.me/JAsuran123_bot">Mᴀᴅᴀʀᴀ Ucʜɪʜᴀ 😈</a>
 
 I Aᴍ Sᴏʀʀʏ Iꜰ I Fᴏʀɢᴏᴛ Sᴏᴍᴇᴏɴᴇ 🫂
 Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Hᴇʟᴘɪɴɢ Iɴ Tʜɪꜱ Aᴍᴀᴢɪɴɢ Rᴏʟʟᴇʀ Cᴏᴀꜱᴛᴇʀ Jᴏᴜʀɴᴇʏ 🚀</b>
@@ -296,7 +296,7 @@ Requested by : {message.from_user.mention}</b>
     EXTRAMOD_TXT = """<b>Exᴛʀᴀ Mᴏᴅᴜʟᴇs</b>
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/JAsuran123_bot>☢Asuran☢</a></b> 
+ <b>✯ Maintained by : <a href=https://t.me/Madarauchiha1703>☢Mᴀᴅᴀʀᴀ Ucʜɪʜᴀ☢</a></b> 
   
  ./song - Download any song [<code>example /song vaa vaathi song</code>] 
   
@@ -693,5 +693,5 @@ BOT WORKING PROPERLY 🔥"""
     DEVELOPER_TXT = """
 Special Thanks To ❤️ Developer -
 
--Developer [Owner of this bot ]<a href='https://t.me/JAsuran123_bot'>Asuran</a>
+-Developer [Owner of this bot ]<a href='https://t.me/Madarauchiha1703'>Mᴀᴅᴀʀᴀ Ucʜɪʜᴀ</a>
 """
