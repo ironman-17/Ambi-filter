@@ -31,7 +31,7 @@ REFER_PICS = (environ.get("REFER_PICS", "https://graph.org/file/1a2e64aee3d4d10e
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'modijiurl.com')) # not support
-STREAM_API = (environ.get('STREAM_API', cd8531f15046b37126cc9b9edb86456dde10db5a''))
+STREAM_API = (environ.get('STREAM_API', 'cd8531f15046b37126cc9b9edb86456dde10db5a'))
 STREAMHTO = (environ.get('STREAMHTO', ''))
 BOT_USERNAME = environ.get("BOT_USERNAME", "Madara_Uchiha_17_bot")
 
