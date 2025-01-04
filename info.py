@@ -158,3 +158,54 @@ LOG_STR += ("Long IMDB storyline enabled." if LONG_IMDB_DESCRIPTION else "LONG_I
 LOG_STR += ("Spell Check Mode Is Enabled, bot will be suggesting related movies if movie not found\n" if SPELL_CHECK_REPLY else "SPELL_CHECK_REPLY Mode disabled\n")
 LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST_ELM} elements\n" if MAX_LIST_ELM else "Full List of casts and crew will be shown in imdb template, restrict them by adding a value to MAX_LIST_ELM\n")
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
+
+
+# User IDs for admins and necessary constants
+ADMINS = [6283322330]  # Replace with your actual admin's Telegram user ID(s)
+DIRECT_GEN_DB = 1002473385674  # Replace with your database or group ID for forwarding messages
+
+# Default poster URL in case no poster is found
+DEFAULT_POSTER = 'https://telegra.ph/file/74707bb075903640ed3f6.jpg'
+
+# Short URL generation (Example: how to shorten URLs for file links)
+HOW_TO_POST_SHORT = "https://t.me/YourChannelHowToDownload"  # Replace with the actual URL
+
+# User states dictionary (to manage the conversation flow)
+user_states = {}
+
+# Define your helper functions (like clean_title, get_poster, etc.)
+
+# Function to clean the movie title
+def clean_title(title):
+    # Add any additional cleaning steps here
+    return title.strip()
+
+# Function to fetch the movie poster (you'll need to implement or call an API for this)
+async def get_poster(title):
+    # Use an API or scrape the poster from IMDb, TMDB, or other movie databases.
+    # Example using a mock response:
+    return {
+        'poster': f'https://www.example.com/posters/{title}.jpg'  # Replace with actual poster fetching logic
+    }
+
+# Function to format the file size
+def get_size(size):
+    # Example size formatting (bytes to MB/GB)
+    if size < 1024 * 1024:
+        return f"{size / 1024:.2f} KB"
+    elif size < 1024 * 1024 * 1024:
+        return f"{size / (1024 * 1024):.2f} MB"
+    else:
+        return f"{size / (1024 * 1024 * 1024):.2f} GB"
+
+# Function to create a shortened link (use any URL shortening service or API)
+async def short_link(url):
+    # Example of shortening a URL (using a placeholder for now)
+    # You can replace this with actual URL shortening API code (e.g., Bitly, TinyURL)
+    return f"https://short.url/{url.split('/')[-1]}"
+
+# Constants for handling the bot's functionality
+poster = True  # Set to True if you want to include posters, False to disable poster fetching
+imdb_info = True  # Set to True if you want to fetch IMDb info for movies
+
+# Include any other configuration settings or helper functions you need
